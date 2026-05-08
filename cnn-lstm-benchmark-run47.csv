@@ -1,0 +1,11 @@
+gif_index,url,total_gif_frames,frames_extracted,frame_extraction_ms,total_inference_ms,avg_frame_inference_ms,per_frame_inference_ms,summary_ms,ocr_detected,ocr_text,total_pipeline_ms,wall_clock_ms,since_page_load_ms,model_load_ms,ocr_load_ms,caption
+1,"https://media2.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1MXBtZGR2ZTR4OXc2MWI2dGx2Ym91bT",21,16,2185,866,52,"",0,0,"",10949,10953,10969,380,558,"a man is playing a guitar and jumping up and down."
+2,"https://media1.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1MXBtZGR2ZTR4OXc2MWI2dGx2Ym91bT",26,16,3090,844,51,"",0,0,"",11023,11027,11043,0,0,"a woman is looking around and looking at something"
+3,"https://media4.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1MXBtZGR2ZTR4OXc2MWI2dGx2Ym91bT",16,16,3935,846,52,"",0,1,"DER Sub PRISE!",11049,11053,11069,0,0,"a is and. Text: DER Sub PRISE!"
+4,"https://media1.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1MXBtZGR2ZTR4OXc2MWI2dGx2Ym91bT",18,16,4782,847,51,"",0,0,"",11145,11150,11166,0,0,"a man is talking and looking at something"
+5,"https://media2.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1MXBtZGR2ZTR4OXc2MWI2dGx2Ym91bT",32,16,6481,850,51,"",0,0,"",11276,11280,11296,0,0,"a woman is wearing sunglasses and a hood."
+6,"https://media1.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1MXBtZGR2ZTR4OXc2MWI2dGx2Ym91bT",16,16,5630,850,51,"",0,1,"ay Ce",11502,11506,11522,0,0,"a man in a white suit is looking at something. Text: ay Ce"
+7,"https://media4.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1MXBtZGR2ZTR4OXc2MWI2dGx2Ym91bT",35,16,7332,850,51,"",0,0,"",11629,11633,11649,0,0,"a man is dancing in a room full of"
+8,"https://media2.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1MXBtZGR2ZTR4OXc2MWI2dGx2Ym91bT",91,16,8183,856,52,"",0,1,"Surprise! Surprise!",11845,11849,11864,0,0,"a man is holding a microphone and dancing.. Text: Surprise! Surprise!"
+9,"https://media4.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1MXBtZGR2ZTR4OXc2MWI2dGx2Ym91bT",46,16,9050,854,51,"",0,0,"",12472,12477,12493,0,0,"a man is sitting on a couch and eating a cookie."
+10,"https://media4.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1MXBtZGR2ZTR4OXc2MWI2dGx2Ym91bT",63,16,10050,842,51,"",0,1,"TRAITORS “Who Doesn't Like Surprises?",13038,13042,13058,0,0,"a man in a hat is talking and smiling.. Text: TRAITORS “Who Doesn't Like Surprises?"

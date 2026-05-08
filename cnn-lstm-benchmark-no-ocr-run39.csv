@@ -1,0 +1,11 @@
+gif_index,url,total_gif_frames,frames_extracted,frame_extraction_ms,total_inference_ms,avg_frame_inference_ms,per_frame_inference_ms,summary_ms,ocr_detected,ocr_text,total_pipeline_ms,wall_clock_ms,since_page_load_ms,model_load_ms,ocr_load_ms,caption
+1,"https://media4.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1cHpmM21udmcweDRtczc3ankzZGJ5bD",16,16,208,853,52,"",0,0,"",1062,1070,1083,389,595,"a is and"
+2,"https://media2.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1cHpmM21udmcweDRtczc3ankzZGJ5bD",21,16,1105,842,51,"",0,0,"",1947,1955,1968,0,0,"a man is playing a guitar and jumping up and down."
+3,"https://media1.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1cHpmM21udmcweDRtczc3ankzZGJ5bD",26,16,1949,841,51,"",0,0,"",2790,2799,2811,0,0,"a woman is looking around and looking at something"
+4,"https://media4.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1cHpmM21udmcweDRtczc3ankzZGJ5bD",35,16,2799,855,52,"",0,0,"",3654,3658,3671,0,0,"a man is dancing in a room full of"
+5,"https://media1.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1cHpmM21udmcweDRtczc3ankzZGJ5bD",18,16,3652,842,51,"",0,0,"",4494,4502,4515,0,0,"a man is talking and looking at something"
+6,"https://media1.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1cHpmM21udmcweDRtczc3ankzZGJ5bD",16,16,4506,846,51,"",0,0,"",5352,5356,5369,0,0,"a man in a white suit is looking at something"
+7,"https://media4.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1cHpmM21udmcweDRtczc3ankzZGJ5bD",46,16,5350,840,51,"",0,0,"",6190,6199,6211,0,0,"a man is sitting on a couch and eating a cookie."
+8,"https://media2.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1cHpmM21udmcweDRtczc3ankzZGJ5bD",91,16,6199,828,50,"",0,0,"",7027,7031,7043,0,0,"a man is holding a microphone and dancing."
+9,"https://media2.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1cHpmM21udmcweDRtczc3ankzZGJ5bD",32,16,7025,838,51,"",0,0,"",7863,7871,7884,0,0,"a woman is wearing sunglasses and a hood."
+10,"https://media4.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1cHpmM21udmcweDRtczc3ankzZGJ5bD",63,16,7870,846,51,"",0,0,"",8716,8720,8733,0,0,"a man in a hat is talking and smiling."

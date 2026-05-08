@@ -1,0 +1,11 @@
+gif_index,url,total_gif_frames,frames_extracted,frame_extraction_ms,total_inference_ms,ocr_detected,ocr_text,total_pipeline_ms,wall_clock_ms,since_page_load_ms,model_load_ms,ocr_load_ms,caption
+1,"https://media2.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1OGxldnp0bG5maTF5cXlreXlhYnQ0OW",91,16,4017,15265,0,"",19722,19728,19860,27760,460,"A woman was walking on stage and waving her hand behind her."
+2,"https://media3.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1OGxldnp0bG5maTF5cXlreXlhYnQ0OW",16,16,3171,15364,0,"",18969,38698,38829,0,0,"A man with a tie and shirt was talking while sitting at a desk."
+3,"https://media4.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1OGxldnp0bG5maTF5cXlreXlhYnQ0OW",63,16,3321,15220,0,"",18971,57668,57800,0,0,"A man with a hat and coat smiles at something on the screen."
+4,"https://media1.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1OGxldnp0bG5maTF5cXlreXlhYnQ0OW",18,16,3087,15382,0,"",18906,76574,76706,0,0,"A man with black hair and wearing a shirt is looking up and talking."
+5,"https://media1.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1OGxldnp0bG5maTF5cXlreXlhYnQ0OW",26,16,3040,14974,0,"",18449,95024,95155,0,0,"A bird with big eyes was looking at something."
+6,"https://media1.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1OGxldnp0bG5maTF5cXlreXlhYnQ0OW",16,16,3039,15515,0,"",18996,114020,114152,0,0,"A blue and yellow frame with text reading surprise! Surprise? sits on top of another image that"
+7,"https://media4.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1OGxldnp0bG5maTF5cXlreXlhYnQ0OW",35,16,3107,15205,0,"",18749,132768,132900,0,0,"A woman with red and blue colors was shocked by something."
+8,"https://media2.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1OGxldnp0bG5maTF5cXlreXlhYnQ0OW",32,16,3121,15188,0,"",18733,151502,151633,0,0,"A woman with blonde hair and blue eyes wearing glasses ."
+9,"https://media4.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1OGxldnp0bG5maTF5cXlreXlhYnQ0OW",46,16,3218,15553,0,"",19209,170711,170843,0,0,"A boy with black hair and wearing a fire truck shirt was walking on dirt roads near trees."
+10,"https://media1.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1OGxldnp0bG5maTF5cXlreXlhYnQ0OW",15,16,3033,15388,0,"",18860,189571,189702,0,0,"A man with a black shirt and brown hair was looking at something."

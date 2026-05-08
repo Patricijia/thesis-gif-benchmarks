@@ -1,0 +1,11 @@
+gif_index,url,total_gif_frames,frames_extracted,frame_extraction_ms,total_inference_ms,avg_frame_inference_ms,per_frame_inference_ms,summary_ms,ocr_detected,ocr_text,total_pipeline_ms,wall_clock_ms,since_page_load_ms,model_load_ms,ocr_load_ms,caption
+1,"https://media4.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1cHpmM21udmcweDRtczc3ankzZGJ5bD",16,16,2228,835,51,"",0,1,"DER Sub PRISE!",11854,11860,11872,380,558,"a is and. Text: DER Sub PRISE!"
+2,"https://media1.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1cHpmM21udmcweDRtczc3ankzZGJ5bD",26,16,3109,845,51,"",0,0,"",11879,11885,11897,0,0,"a woman is looking around and looking at something"
+3,"https://media2.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1cHpmM21udmcweDRtczc3ankzZGJ5bD",21,16,3955,872,53,"",0,0,"",11909,11915,11927,0,0,"a man is playing a guitar and jumping up and down."
+4,"https://media4.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1cHpmM21udmcweDRtczc3ankzZGJ5bD",35,16,4828,855,52,"",0,0,"",12034,12040,12051,0,0,"a man is dancing in a room full of"
+5,"https://media1.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1cHpmM21udmcweDRtczc3ankzZGJ5bD",18,16,5683,843,51,"",0,0,"",12128,12133,12145,0,0,"a man is talking and looking at something"
+6,"https://media4.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1cHpmM21udmcweDRtczc3ankzZGJ5bD",46,16,6526,847,51,"",0,0,"",12744,12751,12762,0,0,"a man is sitting on a couch and eating a cookie."
+7,"https://media2.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1cHpmM21udmcweDRtczc3ankzZGJ5bD",32,16,7375,839,51,"",0,0,"",12869,12874,12886,0,0,"a woman is wearing sunglasses and a hood."
+8,"https://media1.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1cHpmM21udmcweDRtczc3ankzZGJ5bD",16,16,8215,865,52,"",0,1,"ay Ce",13091,13097,13109,0,0,"a man in a white suit is looking at something. Text: ay Ce"
+9,"https://media4.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1cHpmM21udmcweDRtczc3ankzZGJ5bD",63,16,9081,844,51,"",0,1,"TRAITORS “Who Doesn't Like Surprises?",13667,13672,13684,0,0,"a man in a hat is talking and smiling.. Text: TRAITORS “Who Doesn't Like Surprises?"
+10,"https://media2.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1cHpmM21udmcweDRtczc3ankzZGJ5bD",91,16,9926,838,51,"",0,1,"Surprise! Surprise!",13882,13887,13898,0,0,"a man is holding a microphone and dancing.. Text: Surprise! Surprise!"

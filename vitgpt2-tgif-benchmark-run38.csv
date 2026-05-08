@@ -1,0 +1,21 @@
+gif_index,url,total_gif_frames,frames_extracted,frame_extraction_ms,total_inference_ms,ocr_detected,ocr_text,total_pipeline_ms,wall_clock_ms,since_page_load_ms,model_load_ms,ocr_load_ms,caption
+1,"https://media1.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1aGdjejB0aXZvb21scTVuZmVoNXE1aj",26,6,2084,6204,0,"",8288,8294,8309,23221,204,"a white cat is licking a white rabbit.
+
+the rabbit is licking the rabbit's face"
+2,"https://media2.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1aGdjejB0aXZvb21scTVuZmVoNXE1aj",21,6,2123,6223,1,"OO ge",8346,8352,8367,0,0,"a man is sitting on a bench and talking. he is smiling. he looks up and down. Text: OO ge"
+3,"https://media1.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1aGdjejB0aXZvb21scTVuZmVoNXE1aj",16,6,2143,6202,1,"Vow Suh prise!",8346,8352,8368,0,0,"a man is playing a game with a ball.
+
+the ball is moving around.. Text: Vow Suh prise!"
+4,"https://media1.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1aGdjejB0aXZvb21scTVuZmVoNXE1aj",18,6,2158,6189,0,"",8347,8353,8368,0,0,"a man is talking and then looks up. he looks up and then down. he is smiling"
+5,"https://media4.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1aGdjejB0aXZvb21scTVuZmVoNXE1aj",35,6,2194,6153,0,"",8347,8354,8369,0,0,"a man is talking to a woman and then she turns around and smiles.
+
+a man"
+6,"https://media1.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1aGdjejB0aXZvb21scTVuZmVoNXE1aj",16,6,2210,6138,1,"Ae ace",8348,8354,8370,0,0,"a man is talking and then he turns his head. he is smiling. he looks at the. Text: Ae ace"
+7,"https://media2.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1aGdjejB0aXZvb21scTVuZmVoNXE1aj",32,6,2217,6130,0,"",8347,8355,8370,0,0,"a man is talking and smiling and then he looks up.
+
+a man with a beard"
+8,"https://media2.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1aGdjejB0aXZvb21scTVuZmVoNXE1aj",74,6,2232,6116,0,"",8347,8355,8371,0,0,"a man is talking and then looks up. Then he looks down. Then looks up again."
+9,"https://media4.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1aGdjejB0aXZvb21scTVuZmVoNXE1aj",63,6,2252,6097,1,"TRATFORS “Who Doesn't Like Surprises?",8349,8356,8372,0,0,"a man is talking to a woman and then she smiles.
+
+a man in a blue. Text: TRATFORS “Who Doesn't Like Surprises?"
+10,"https://media2.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1aGdjejB0aXZvb21scTVuZmVoNXE1aj",91,6,2284,6065,1,"Surprise! Surprise!",8349,8357,8372,0,0,"a man is walking down a street and then he is walking away. he is smiling and then. Text: Surprise! Surprise!"
