@@ -1,0 +1,21 @@
+gif_index,url,total_gif_frames,frames_extracted,frame_extraction_ms,total_inference_ms,ocr_detected,ocr_text,total_pipeline_ms,wall_clock_ms,since_page_load_ms,model_load_ms,ocr_load_ms,caption
+1,"https://media1.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1aGdjejB0aXZvb21scTVuZmVoNXE1aj",16,6,1063,5962,0,"",7025,7029,7043,33855,197,"a man is playing a game with a ball.
+
+the ball is moving around."
+2,"https://media2.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1aGdjejB0aXZvb21scTVuZmVoNXE1aj",21,6,1162,6025,0,"",7186,7190,7204,0,0,"a man is sitting on a bench and talking. he is smiling. he looks up and down"
+3,"https://media1.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1aGdjejB0aXZvb21scTVuZmVoNXE1aj",26,6,1185,6002,0,"",7187,7192,7206,0,0,"a white cat is licking a white rabbit.
+
+the rabbit is licking the rabbit's face"
+4,"https://media1.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1aGdjejB0aXZvb21scTVuZmVoNXE1aj",18,6,1200,5988,0,"",7188,7192,7206,0,0,"a man is talking and then looks up. he looks up and then down. he is smiling"
+5,"https://media1.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1aGdjejB0aXZvb21scTVuZmVoNXE1aj",16,6,1210,5978,0,"",7188,7193,7207,0,0,"a man is talking and then he turns his head. he is smiling. he looks at the"
+6,"https://media4.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1aGdjejB0aXZvb21scTVuZmVoNXE1aj",63,6,1235,5955,0,"",7189,7194,7208,0,0,"a man is talking to a woman and then she smiles.
+
+a man in a blue"
+7,"https://media2.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1aGdjejB0aXZvb21scTVuZmVoNXE1aj",74,6,1243,5946,0,"",7189,7194,7208,0,0,"a man is talking and then looks up. Then he looks down. Then looks up again."
+8,"https://media4.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1aGdjejB0aXZvb21scTVuZmVoNXE1aj",35,6,1253,5938,0,"",7190,7195,7209,0,0,"a man is talking to a woman and then she turns around and smiles.
+
+a man"
+9,"https://media2.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1aGdjejB0aXZvb21scTVuZmVoNXE1aj",32,6,1263,5927,0,"",7191,7195,7210,0,0,"a man is talking and smiling and then he looks up.
+
+a man with a beard"
+10,"https://media2.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1aGdjejB0aXZvb21scTVuZmVoNXE1aj",91,6,1282,5910,0,"",7192,7196,7210,0,0,"a man is walking down a street and then he is walking away. he is smiling and then"
