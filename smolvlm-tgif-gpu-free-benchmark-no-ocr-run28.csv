@@ -1,0 +1,11 @@
+gif_index,url,total_gif_frames,frames_extracted,frame_extraction_ms,total_inference_ms,ocr_detected,ocr_text,total_pipeline_ms,wall_clock_ms,since_page_load_ms,model_load_ms,ocr_load_ms,caption
+1,"https://media3.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1bmZ5MnVhcHhvemF0Z2wxZWNyd2tkej",16,16,3062,2441,0,"",5983,5989,6037,4309,192,"GIF displays A man with a tie and shirt was talking while sitting at a desk"
+2,"https://media2.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1bmZ5MnVhcHhvemF0Z2wxZWNyd2tkej",63,16,3095,3489,0,"",7109,13098,13146,0,0,"GIF displays A man with a hat and coat smiles at something on the screen"
+3,"https://media3.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1bmZ5MnVhcHhvemF0Z2wxZWNyd2tkej",96,16,3153,3317,0,"",6977,20075,20123,0,0,"GIF displays A man wearing headphones and a white shirt was talking into the microphone on stage"
+4,"https://media2.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1bmZ5MnVhcHhvemF0Z2wxZWNyd2tkej",52,16,3079,3390,0,"",6972,27047,27095,0,0,"GIF displays A woman was smiling and then turned away"
+5,"https://media4.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1bmZ5MnVhcHhvemF0Z2wxZWNyd2tkej",101,16,3077,3738,0,"",7323,34370,34418,0,0,"GIF displays A box of surprise dogs sits inside another box and the other also has a dog sitting on top it"
+6,"https://media2.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1bmZ5MnVhcHhvemF0Z2wxZWNyd2tkej",91,16,3117,4120,0,"",7751,42122,42170,0,0,"GIF displays A woman was walking on stage and waving her hand behind her"
+7,"https://media4.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1bmZ5MnVhcHhvemF0Z2wxZWNyd2tkej",15,16,3034,3568,0,"",7122,49246,49294,0,0,"GIF displays A man with a black shirt and brown hair was looking at something"
+8,"https://media2.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1bmZ5MnVhcHhvemF0Z2wxZWNyd2tkej",18,16,3064,3871,0,"",7455,56703,56751,0,0,"GIF displays A man wearing a suit and tie stands on stage with his hands up"
+9,"https://media3.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1bmZ5MnVhcHhvemF0Z2wxZWNyd2tkej",46,16,3085,5200,0,"",8802,65503,65552,0,0,"GIF displays A boy with black hair and wearing a fire truck shirt was walking on dirt roads near trees"
+10,"https://media3.giphy.com/media/v1.Y2lkPWVjOWY5Nzk1bmZ5MnVhcHhvemF0Z2wxZWNyd2tkej",26,16,3035,4337,0,"",7900,73402,73450,0,0,"GIF displays A bird with big eyes was looking at something"
